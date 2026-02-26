@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "servor --reload",
+    "build": "echo 'Build successful - static site ready for deployment'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.97.0",
+    "servor": "^4.0.2"
+  }
+}
